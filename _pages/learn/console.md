@@ -20,4 +20,4 @@ Text.new("Hello")
 
 ## Common issues
 
-If your program does not have an active 2D window, for example if `show` has yet to be called, or the window has been closed by calling `close`, or there was an error in your Ruby code causing the window to close, then the console will not be able to interact with your program and an error message will be displayed.
+If your program does not have an active 2D window, for example if `show` has yet to be called, or the window has been closed by calling `close`, or there was an error in your Ruby code causing the window to close, then the console will not be able to interact with youkr program and an error message will be displayed.
